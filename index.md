@@ -2,15 +2,11 @@
 
 20+ лет в IT: системный администратор, программист, ESP32 и автоматизация. Живу в Apolda, Германия. Всегда в поиске новых задач и проектов.
 
----
-
 ## Опыт
 
-- CRM Manufaktur GmbH — разработка и кастомизация TecArt CRM, PHP, MySQL, Docker, API, webhooks  
-- InterPhone HitLine — поддержка и администрирование сети и серверов, автоматизация процессов  
-- MistoBank — программирование, управление банковским ПО и оборудованием
-
----
+- **CRM Manufaktur GmbH** — разработка и кастомизация TecArt CRM, PHP, MySQL, Docker, API, webhooks  
+- **InterPhone HitLine** — поддержка и администрирование сети и серверов, автоматизация процессов  
+- **MistoBank** — программирование, управление банковским ПО и оборудованием  
 
 ## Навыки
 
@@ -18,9 +14,7 @@
 - Микроконтроллеры: ESP32, Arduino  
 - Виртуализация: VMware, Hyper-V  
 - CMS: ModX, Joomla, TecArt и др.  
-- Базы данных: MySQL, MSSQL, SQLite
-
----
+- Базы данных: MySQL, MSSQL, SQLite  
 
 ## Контакты
 
@@ -28,8 +22,6 @@
 - Email: evgenyvalyansky@gmail.com  
 - Телефон/WhatsApp/Viber: +380677584060  
 - GitHub: [github.com/YevhenValianskyi](https://github.com/YevhenValianskyi)  
-
----
 
 ## Интересы
 
