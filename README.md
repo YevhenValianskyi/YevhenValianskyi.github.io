@@ -1,4 +1,4 @@
-**Yevhen Valianskyi – Software Developer, Embedded Systems & Automation Expert**
+# Yevhen Valianskyi – Software Developer, Embedded Systems & Automation Expert
 
 Over 30 years in IT: System administration, software development, microcontroller programming.  
 Currently based in Apolda, Germany – open for new challenges, collaborations, and creative projects.
