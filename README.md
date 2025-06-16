@@ -1,6 +1,6 @@
 # Yevhen Valianskyi — IT-Entwickler
 
-Über 20 Jahre IT-Erfahrung: Systemadministrator, Programmierer, ESP32 & Automatisierung. Lebe in Apolda, Deutschland. Immer auf der Suche nach neuen Herausforderungen und Projekten.
+Über 30 Jahre IT-Erfahrung: Systemadministrator, Programmierer, ESP32 & Automatisierung. Lebe in Apolda, Deutschland. Immer auf der Suche nach neuen Herausforderungen und Projekten.
 
 ---
 
